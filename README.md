@@ -1,6 +1,6 @@
 # ASDi — VHDL Exercises and Final Project
 
-Coursework for **Architetture e Sistemi Digitali (ASDi)**, Master's Degree in Computer Engineering, University of Naples Federico II.
+Coursework for the Digital Systems Architecture, Master's Degree in Computer Engineering, University of Naples Federico II.
 
 A sequence of digital-design exercises in VHDL, developed and simulated/synthesized with Xilinx Vivado, mostly targeting a Digilent Nexys A7-100T FPGA board. Full report: [`ASDI_Vitale_Russo.pdf`](ASDI_Vitale_Russo.pdf).
 
