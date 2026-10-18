@@ -24,7 +24,7 @@ Each folder under [`Esercizi/`](Esercizi/) is a self-contained Vivado project (`
 | [`Esercizio11`](Esercizi/Esercizio11) | Multistage switching network |
 | [`Esercizio12`](Esercizi/Esercizio12) | December 2024 exam exercise |
 
-**Not included — Esercizio9 (Processore):** this exercise was carried out inside the MIC-1 lab virtual machine provided for the course, following the instructions in its handout (`dispensa-mic.pdf`), rather than as a standalone Vivado project with its own exported sources, so there's nothing self-contained to publish here.
+**Not included — Esercizio9 (Processore):** this exercise was carried out inside the MIC-1 lab virtual machine provided for the course, following the instructions in its handout.
 
 ## Notes
 
