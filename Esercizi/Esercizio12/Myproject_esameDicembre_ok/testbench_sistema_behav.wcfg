@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_sistema_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench_sistema" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="50.750 ns"></ZoomStartTime>
+      <ZoomEndTime time="145.851 ns"></ZoomEndTime>
+      <Cursor1Time time="90.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/testbench_sistema/UUT/CLK_A" type="logic">
+      <obj_property name="ElementShortName">CLK_A</obj_property>
+      <obj_property name="ObjectShortName">CLK_A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/REQ_temp" type="logic">
+      <obj_property name="ElementShortName">REQ_temp</obj_property>
+      <obj_property name="ObjectShortName">REQ_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/CLK_B" type="logic">
+      <obj_property name="ElementShortName">CLK_B</obj_property>
+      <obj_property name="ObjectShortName">CLK_B</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/ACK_temp" type="logic">
+      <obj_property name="ElementShortName">ACK_temp</obj_property>
+      <obj_property name="ObjectShortName">ACK_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_A/Unita_controllo/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/data_temp" type="array">
+      <obj_property name="ElementShortName">data_temp[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_temp[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/dataIN" type="array">
+      <obj_property name="ElementShortName">dataIN[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataIN[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/Unita_controllo/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/loadA_temp" type="logic">
+      <obj_property name="ElementShortName">loadA_temp</obj_property>
+      <obj_property name="ObjectShortName">loadA_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/Parte_operativa/REG_A/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/loadB_temp" type="logic">
+      <obj_property name="ElementShortName">loadB_temp</obj_property>
+      <obj_property name="ObjectShortName">loadB_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/Parte_operativa/REG_B/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/loadC_temp" type="logic">
+      <obj_property name="ElementShortName">loadC_temp</obj_property>
+      <obj_property name="ObjectShortName">loadC_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/Parte_operativa/REG_C/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/Sel_R_temp" type="logic">
+      <obj_property name="ElementShortName">Sel_R_temp</obj_property>
+      <obj_property name="ObjectShortName">Sel_R_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/counter_temp" type="array">
+      <obj_property name="ElementShortName">counter_temp[2:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_temp[2:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/UUT/NODO_B/en_count_temp" type="logic">
+      <obj_property name="ElementShortName">en_count_temp</obj_property>
+      <obj_property name="ObjectShortName">en_count_temp</obj_property>
+   </wvobject>
+</wave_config>

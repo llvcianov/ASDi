@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="riconoscitore_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="riconoscitore_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="201.584 ns"></ZoomStartTime>
+      <ZoomEndTime time="522.085 ns"></ZoomEndTime>
+      <Cursor1Time time="322.584 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="206"></NameColumnWidth>
+      <ValueColumnWidth column_width="124"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/riconoscitore_tb/DUT/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/A" type="logic">
+      <obj_property name="ElementShortName">A</obj_property>
+      <obj_property name="ObjectShortName">A</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/i" type="logic">
+      <obj_property name="ElementShortName">i</obj_property>
+      <obj_property name="ObjectShortName">i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/Bi" type="logic">
+      <obj_property name="ElementShortName">Bi</obj_property>
+      <obj_property name="ObjectShortName">Bi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/m" type="logic">
+      <obj_property name="ElementShortName">m</obj_property>
+      <obj_property name="ObjectShortName">m</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/Bm" type="logic">
+      <obj_property name="ElementShortName">Bm</obj_property>
+      <obj_property name="ObjectShortName">Bm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/y" type="logic">
+      <obj_property name="ElementShortName">y</obj_property>
+      <obj_property name="ObjectShortName">y</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/y_temp" type="logic">
+      <obj_property name="ElementShortName">y_temp</obj_property>
+      <obj_property name="ObjectShortName">y_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/riconoscitore_tb/DUT/m_temp" type="logic">
+      <obj_property name="ElementShortName">m_temp</obj_property>
+      <obj_property name="ObjectShortName">m_temp</obj_property>
+   </wvobject>
+</wave_config>

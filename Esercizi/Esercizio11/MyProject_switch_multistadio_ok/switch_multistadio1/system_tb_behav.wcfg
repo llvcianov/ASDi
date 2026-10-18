@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="system_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="system_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,307.415 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="187"></NameColumnWidth>
+      <ValueColumnWidth column_width="220"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/system_tb/A0" type="array">
+      <obj_property name="ElementShortName">A0[5:0]</obj_property>
+      <obj_property name="ObjectShortName">A0[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/A1" type="array">
+      <obj_property name="ElementShortName">A1[5:0]</obj_property>
+      <obj_property name="ObjectShortName">A1[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/A2" type="array">
+      <obj_property name="ElementShortName">A2[5:0]</obj_property>
+      <obj_property name="ObjectShortName">A2[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/A3" type="array">
+      <obj_property name="ElementShortName">A3[5:0]</obj_property>
+      <obj_property name="ObjectShortName">A3[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/enable0" type="logic">
+      <obj_property name="ElementShortName">enable0</obj_property>
+      <obj_property name="ObjectShortName">enable0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/enable1" type="logic">
+      <obj_property name="ElementShortName">enable1</obj_property>
+      <obj_property name="ObjectShortName">enable1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/enable2" type="logic">
+      <obj_property name="ElementShortName">enable2</obj_property>
+      <obj_property name="ObjectShortName">enable2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/enable3" type="logic">
+      <obj_property name="ElementShortName">enable3</obj_property>
+      <obj_property name="ObjectShortName">enable3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/B0" type="array">
+      <obj_property name="ElementShortName">B0[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B0[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/B1" type="array">
+      <obj_property name="ElementShortName">B1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/B2" type="array">
+      <obj_property name="ElementShortName">B2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B2[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/B3" type="array">
+      <obj_property name="ElementShortName">B3[1:0]</obj_property>
+      <obj_property name="ObjectShortName">B3[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/temp_control_vector" type="array">
+      <obj_property name="ElementShortName">temp_control_vector[7:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_control_vector[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/UC/dest_nodo0" type="array">
+      <obj_property name="ElementShortName">dest_nodo0[1:0]</obj_property>
+      <obj_property name="ObjectShortName">dest_nodo0[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/UC/dest_nodo1" type="array">
+      <obj_property name="ElementShortName">dest_nodo1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">dest_nodo1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/UC/dest_nodo2" type="array">
+      <obj_property name="ElementShortName">dest_nodo2[1:0]</obj_property>
+      <obj_property name="ObjectShortName">dest_nodo2[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/system_tb/uut/UC/dest_nodo3" type="array">
+      <obj_property name="ElementShortName">dest_nodo3[1:0]</obj_property>
+      <obj_property name="ObjectShortName">dest_nodo3[1:0]</obj_property>
+   </wvobject>
+</wave_config>

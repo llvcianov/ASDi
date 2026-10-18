@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Crono_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Crono_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="7.410001 us"></ZoomEndTime>
+      <Cursor1Time time="6.070000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="197"></NameColumnWidth>
+      <ValueColumnWidth column_width="109"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/Crono_tb/uut/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Secload" type="logic">
+      <obj_property name="ElementShortName">Secload</obj_property>
+      <obj_property name="ObjectShortName">Secload</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Minload" type="logic">
+      <obj_property name="ElementShortName">Minload</obj_property>
+      <obj_property name="ObjectShortName">Minload</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Hrload" type="logic">
+      <obj_property name="ElementShortName">Hrload</obj_property>
+      <obj_property name="ObjectShortName">Hrload</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/SecToset" type="array">
+      <obj_property name="ElementShortName">SecToset[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SecToset[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/MinToset" type="array">
+      <obj_property name="ElementShortName">MinToset[5:0]</obj_property>
+      <obj_property name="ObjectShortName">MinToset[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/HrToset" type="array">
+      <obj_property name="ElementShortName">HrToset[4:0]</obj_property>
+      <obj_property name="ObjectShortName">HrToset[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/SecOUT" type="array">
+      <obj_property name="ElementShortName">SecOUT[5:0]</obj_property>
+      <obj_property name="ObjectShortName">SecOUT[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/MinOUT" type="array">
+      <obj_property name="ElementShortName">MinOUT[5:0]</obj_property>
+      <obj_property name="ObjectShortName">MinOUT[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/HrOUT" type="array">
+      <obj_property name="ElementShortName">HrOUT[4:0]</obj_property>
+      <obj_property name="ObjectShortName">HrOUT[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/MinClock" type="logic">
+      <obj_property name="ElementShortName">MinClock</obj_property>
+      <obj_property name="ObjectShortName">MinClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Hrclock" type="logic">
+      <obj_property name="ElementShortName">Hrclock</obj_property>
+      <obj_property name="ObjectShortName">Hrclock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Umaxsec" type="logic">
+      <obj_property name="ElementShortName">Umaxsec</obj_property>
+      <obj_property name="ObjectShortName">Umaxsec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Crono_tb/uut/Umaxmin" type="logic">
+      <obj_property name="ElementShortName">Umaxmin</obj_property>
+      <obj_property name="ObjectShortName">Umaxmin</obj_property>
+   </wvobject>
+</wave_config>

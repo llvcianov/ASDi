@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="PC_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="PC_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="45.292 ns"></ZoomStartTime>
+      <ZoomEndTime time="103.543 ns"></ZoomEndTime>
+      <Cursor1Time time="67.942 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="197"></NameColumnWidth>
+      <ValueColumnWidth column_width="103"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/PC_tb/uut/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/Start" type="logic">
+      <obj_property name="ElementShortName">Start</obj_property>
+      <obj_property name="ObjectShortName">Start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/UmaxCont" type="logic">
+      <obj_property name="ElementShortName">UmaxCont</obj_property>
+      <obj_property name="ObjectShortName">UmaxCont</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/Read" type="logic">
+      <obj_property name="ElementShortName">Read</obj_property>
+      <obj_property name="ObjectShortName">Read</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/Write" type="logic">
+      <obj_property name="ElementShortName">Write</obj_property>
+      <obj_property name="ObjectShortName">Write</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/Count" type="logic">
+      <obj_property name="ElementShortName">Count</obj_property>
+      <obj_property name="ObjectShortName">Count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/PC_tb/uut/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+</wave_config>

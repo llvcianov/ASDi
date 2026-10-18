@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_sistema_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench_sistema" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="46.334 ns"></ZoomStartTime>
+      <ZoomEndTime time="83.335 ns"></ZoomEndTime>
+      <Cursor1Time time="56.784 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="192"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/testbench_sistema/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/RST" type="logic">
+      <obj_property name="ElementShortName">RST</obj_property>
+      <obj_property name="ObjectShortName">RST</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/Start" type="logic">
+      <obj_property name="ElementShortName">Start</obj_property>
+      <obj_property name="ObjectShortName">Start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/stop" type="logic">
+      <obj_property name="ElementShortName">stop</obj_property>
+      <obj_property name="ObjectShortName">stop</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/REQ_temp" type="logic">
+      <obj_property name="ElementShortName">REQ_temp</obj_property>
+      <obj_property name="ObjectShortName">REQ_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/ACK_temp" type="logic">
+      <obj_property name="ElementShortName">ACK_temp</obj_property>
+      <obj_property name="ObjectShortName">ACK_temp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_A/Parte_controllo/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_A/dataOUT" type="array">
+      <obj_property name="ElementShortName">dataOUT[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dataOUT[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_B/Parte_controllo/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_B/Parte_operativa/REG_A/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_B/Parte_operativa/REG_B/temp_data" type="array">
+      <obj_property name="ElementShortName">temp_data[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_data[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_B/Parte_operativa/temp_adder_out" type="array">
+      <obj_property name="ElementShortName">temp_adder_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_adder_out[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_B/Parte_operativa/MEM_B/MEM" type="array">
+      <obj_property name="ElementShortName">MEM[0:7][3:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM[0:7][3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_sistema/DUT/NODO_A/Parte_operativa/ROM_A/ROM" type="array">
+      <obj_property name="ElementShortName">ROM[0:7][3:0]</obj_property>
+      <obj_property name="ObjectShortName">ROM[0:7][3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

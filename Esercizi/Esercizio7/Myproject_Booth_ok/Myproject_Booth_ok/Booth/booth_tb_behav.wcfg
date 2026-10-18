@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="booth_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="booth_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="114.900 ns"></ZoomStartTime>
+      <ZoomEndTime time="584.901 ns"></ZoomEndTime>
+      <Cursor1Time time="360.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="252"></NameColumnWidth>
+      <ValueColumnWidth column_width="103"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/booth_tb/uut/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/X" type="array">
+      <obj_property name="ElementShortName">X[7:0]</obj_property>
+      <obj_property name="ObjectShortName">X[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/Y" type="array">
+      <obj_property name="ElementShortName">Y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Y[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/P" type="array">
+      <obj_property name="ElementShortName">P[15:0]</obj_property>
+      <obj_property name="ObjectShortName">P[15:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/UC/stato_corrente" type="other">
+      <obj_property name="ElementShortName">stato_corrente</obj_property>
+      <obj_property name="ObjectShortName">stato_corrente</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_LSBQ" type="array">
+      <obj_property name="ElementShortName">temp_LSBQ[1:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_LSBQ[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/UO/temp_AQ_out" type="array">
+      <obj_property name="ElementShortName">temp_AQ_out[16:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_AQ_out[16:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_counter" type="array">
+      <obj_property name="ElementShortName">temp_counter[3:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_counter[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_en_count" type="logic">
+      <obj_property name="ElementShortName">temp_en_count</obj_property>
+      <obj_property name="ObjectShortName">temp_en_count</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_en_shift" type="logic">
+      <obj_property name="ElementShortName">temp_en_shift</obj_property>
+      <obj_property name="ObjectShortName">temp_en_shift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_en_sub" type="logic">
+      <obj_property name="ElementShortName">temp_en_sub</obj_property>
+      <obj_property name="ObjectShortName">temp_en_sub</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_loadM" type="logic">
+      <obj_property name="ElementShortName">temp_loadM</obj_property>
+      <obj_property name="ObjectShortName">temp_loadM</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_loadAQ" type="logic">
+      <obj_property name="ElementShortName">temp_loadAQ</obj_property>
+      <obj_property name="ObjectShortName">temp_loadAQ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_selAQ" type="logic">
+      <obj_property name="ElementShortName">temp_selAQ</obj_property>
+      <obj_property name="ObjectShortName">temp_selAQ</obj_property>
+   </wvobject>
+   <wvobject fp_name="/booth_tb/uut/temp_P" type="array">
+      <obj_property name="ElementShortName">temp_P[16:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_P[16:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>

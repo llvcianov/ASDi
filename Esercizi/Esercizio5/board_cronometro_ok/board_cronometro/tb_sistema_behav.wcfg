@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_sistema_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_sistema" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="3,575.034 ns"></ZoomStartTime>
+      <ZoomEndTime time="3,775.786 ns"></ZoomEndTime>
+      <Cursor1Time time="3,599.977 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="203"></NameColumnWidth>
+      <ValueColumnWidth column_width="104"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/tb_sistema/uut/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/en_time" type="logic">
+      <obj_property name="ElementShortName">en_time</obj_property>
+      <obj_property name="ObjectShortName">en_time</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/set" type="array">
+      <obj_property name="ElementShortName">set[5:0]</obj_property>
+      <obj_property name="ObjectShortName">set[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/load_sec" type="logic">
+      <obj_property name="ElementShortName">load_sec</obj_property>
+      <obj_property name="ObjectShortName">load_sec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/load_min" type="logic">
+      <obj_property name="ElementShortName">load_min</obj_property>
+      <obj_property name="ObjectShortName">load_min</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/load_hours" type="logic">
+      <obj_property name="ElementShortName">load_hours</obj_property>
+      <obj_property name="ObjectShortName">load_hours</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/set_sec" type="array">
+      <obj_property name="ElementShortName">set_sec[5:0]</obj_property>
+      <obj_property name="ObjectShortName">set_sec[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/set_min" type="array">
+      <obj_property name="ElementShortName">set_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">set_min[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/set_hours" type="array">
+      <obj_property name="ElementShortName">set_hours[4:0]</obj_property>
+      <obj_property name="ObjectShortName">set_hours[4:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/load_sec" type="logic">
+      <obj_property name="ElementShortName">load_sec</obj_property>
+      <obj_property name="ObjectShortName">load_sec</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/load_min" type="logic">
+      <obj_property name="ElementShortName">load_min</obj_property>
+      <obj_property name="ObjectShortName">load_min</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/load_hours" type="logic">
+      <obj_property name="ElementShortName">load_hours</obj_property>
+      <obj_property name="ObjectShortName">load_hours</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/Cronometro/SecClock" type="logic">
+      <obj_property name="ElementShortName">SecClock</obj_property>
+      <obj_property name="ObjectShortName">SecClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/temp_second" type="array">
+      <obj_property name="ElementShortName">temp_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_second[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/temp_min" type="array">
+      <obj_property name="ElementShortName">temp_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_min[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/temp_hours" type="array">
+      <obj_property name="ElementShortName">temp_hours[5:0]</obj_property>
+      <obj_property name="ObjectShortName">temp_hours[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/converter_sec/y" type="array">
+      <obj_property name="ElementShortName">y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/converter_min/y" type="array">
+      <obj_property name="ElementShortName">y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/converter_hours/y" type="array">
+      <obj_property name="ElementShortName">y[7:0]</obj_property>
+      <obj_property name="ObjectShortName">y[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_sistema/uut/crono_display/orario_BCD" type="array">
+      <obj_property name="ElementShortName">orario_BCD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">orario_BCD[31:0]</obj_property>
+   </wvobject>
+</wave_config>
