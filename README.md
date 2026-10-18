@@ -4,7 +4,7 @@ Coursework for the Digital Systems Architecture exam, Master's Degree in Compute
 
 A sequence of digital-design exercises in VHDL, developed and simulated/synthesized with Xilinx Vivado, mostly targeting a Digilent Nexys A7-100T FPGA board. Full report: [`ASDI_Vitale_Russo.pdf`](ASDI_Vitale_Russo.pdf).
 
-This was a group project with a course mate (Russo) — the report and exercises reflect joint work, not a strict 50/50 split of authorship.
+This was a group project with a course mate (Russo).
 
 ## Exercises
 
