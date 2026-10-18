@@ -8,7 +8,7 @@ This was a group project with a course mate (Russo).
 
 ## Exercises
 
-Each folder under [`Esercizi/`](Esercizi/) is a self-contained Vivado project (`.xpr` + VHDL sources under `.srcs/`, build artifacts removed):
+Each folder under [`Esercizi/`](Esercizi/) is a self-contained Vivado project (`.xpr` + VHDL sources under `.srcs/`):
 
 | Folder | Topic |
 |---|---|
